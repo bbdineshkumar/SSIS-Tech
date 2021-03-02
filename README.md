@@ -7,7 +7,8 @@ System requirements:
 
 Table Creation:
 * Create new fact table using script file -Create_Fact.sql
-SSIS Solution
+
+SSIS Solution:
 * Download the solution and copy it in the local path.
 * Open VS2015 with SSIS, Open project and select the local path where you stored the files
 * Search for Microsoft visual studio solution file - SSIS_Technical_Test This will open all the solution in your visual studio.
